@@ -15,5 +15,5 @@ Please keep in my mind that you need to have a strong internet connection while 
 Please get rid of the sample name and number in the csv file before running the program.
 
 Bugs to be fixed:
-> Handling inaccurate speech recognition for numeric data.\n
+> Handling inaccurate speech recognition for numeric data.
 > Clicking enter when sending the message (glitch in pywhatkit, does work at times).
