@@ -3,11 +3,11 @@ This is a voice assistant project, it does not use NLP or anything related machi
 It is purely based python modules.
 
 Features included so far are:-
--> Sending a message on Whatsapp
--> Speech/text translation
--> Google/wiki searches
--> World clock
--> Watching videos and listening to music on youtube
+> Sending a message on Whatsapp
+> Speech/text translation
+> Google/wiki searches
+> World clock
+> Watching videos and listening to music on youtube
  
 A demo audio will be included in the near future to understand how to speak to the voice assistant.
  
@@ -15,5 +15,5 @@ Please keep in my mind that you need to have a strong internet connection while 
 Please get rid of the sample name and number in the csv file before running the program.
 
 Bugs to be fixed:
->handling inaccurate speech recognition for numeric data.
->clicking enter when sending the message (glitch in pywhatkit, does work at times).
+> handling inaccurate speech recognition for numeric data.
+> clicking enter when sending the message (glitch in pywhatkit, does work at times).
