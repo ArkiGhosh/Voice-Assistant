@@ -1,1 +1,13 @@
-
+Modules required:
+-> pywhatkit
+-> pyautogui
+-> gtts
+-> googletrans
+-> mutagen
+-> speech_recognition
+-> pyttsx3
+-> googlesearch
+-> selenium
+-> webdriver_manager.chrome
+-> wikipedia
+-> pytz
