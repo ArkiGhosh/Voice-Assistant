@@ -12,3 +12,8 @@ Features included so far are:-
 A demo audio will be included in the near future to understand how to speak to the voice assistant.
  
 Please keep in my mind that you need to have a strong internet connection while using the voice assistant.
+Please get rid of the sample name and number in the csv file before running the program.
+
+Bugs to be fixed:
+>handling inaccurate speech recognition for numeric data.
+>clicking enter when sending the message (glitch in pywhatkit, does work at times).
